@@ -1,0 +1,14 @@
+{
+    "name": "georg/fractal",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xxxdoritosxxx",
+            "email": "georgyvav@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-mbstring": "^7.1"
+    }
+}
