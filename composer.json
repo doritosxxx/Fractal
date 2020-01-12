@@ -1,5 +1,5 @@
 {
-    "name": "georg/fractal",
+    "name": "doritosxxx/fractal",
     "type": "project",
     "authors": [
         {
@@ -7,7 +7,7 @@
             "email": "georgyvav@ya.ru"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "release",
     "require": {
         "ext-mbstring": "^7.1"
     }
