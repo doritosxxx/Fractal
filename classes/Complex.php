@@ -28,7 +28,7 @@ class Complex{
     }
 
     public function abs(){
-        return sqrt($this->real ** 2 + $this->$imaginary ** 2);
+        return sqrt($this->real ** 2 + $this->imaginary ** 2);
     }
 
     public function __toString(){
